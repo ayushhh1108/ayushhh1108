@@ -63,14 +63,14 @@ Here are some ideas to get you started:
     </td>
      <td>
        <a href="https://ayushhirapara.vercel.app/">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ayushhh1108&repo=Portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width: 100%;"/>
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ayushhh1108&repo=portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
   </tr>
 </table>
 <p align="center"> 
   <a href="https://www.instagram.com/ayushhhirapara" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Ayushhh-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
   <a href="https://www.linkedin.com/in/ayushhirapara/" target="_blank">
