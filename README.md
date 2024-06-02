@@ -1,129 +1,84 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Ayush Hirapara</h1>
-<h3 align="left">I do Web developing</h3>
+<!--
+**ayushhirapara1108/ayushhirapara1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Express, NodeJs, Express, MongoDB
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h1 align="center">Hey 👋, I'm Ayush Hirapara</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+- 🌱 I’m MERN stack Web Developer. 
+- 💬 Ask me about anything 👨‍💻
+- 📫 Mail me at [ayushhirapara1108@gmail.com](mailto:ayushhirapara1108@gmail.com)
+- ⚡ Fun fact about me: Focused Web Developer (Man of Focus, Determination, and Sheer Will) 😉
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Material-UI" src="https://img.shields.io/badge/material--ui-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="ReactJs" src="https://img.shields.io/badge/react.js-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br>
-
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
+<br/> <br/>
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+    <td>
+      <a href="https://github.com/ayushhh1108">
+        <img src="https://github-readme-stats.vercel.app/api?username=ayushhh1108&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="ayushhh1108" style="width: 100%;"/>
       </a>
-      <br>Go
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+    <td> 
+      <a href="https://github.com/ayushhh1108">
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ayushhh1108&hide_border=true&theme=tokyonight" style="width: 100%;"/>
       </a>
-      <br>Python
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ayushhirapara.vercel.app/">
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhh1108&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width: 100%;"/>
       </a>
-      <br>Jsonnet
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+     <td>
+       <a href="https://ayushhirapara.vercel.app/">
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ayushhh1108&repo=portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width: 100%;"/>
       </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
     </td>
   </tr>
 </table>
+<p align="center"> 
+  <a href="https://www.instagram.com/ayushhhirapara" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+    
+  <a href="https://www.linkedin.com/in/ayushhirapara/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<h2 align="left">Coding Activity</h2>
+  <a href="https://ayushhirapara.vercel.app">
+    <img src="https://img.shields.io/badge/WEBSITE-ffdb70?&style=for-the-badge&logo=googleearth&logoColor=black">
+  </a>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-  1995.9 hr  ┤                                                                                                  ╭ 
-  1995.5 hr  ┤                                                                                                  │ 
-  1995.0 hr  ┤                                                                                                 ╭╯ 
-  1994.5 hr  ┤                                                                                                ╭╯  
-  1994.0 hr  ┤                                                                                               ╭╯   
-  1993.6 hr  ┤                      ╭────────────────────────────────────────────────────────────────────────╯    
-  1993.1 hr  ┤             ╭────────╯                                                                             
-  1992.6 hr  ┤             │                                                                                      
-  1992.1 hr  ┤            ╭╯                                                                                      
-  1991.6 hr  ┤            │                                                                                       
-  1991.2 hr  ┤      ╭─────╯                                                                                       
-  1990.7 hr  ┤      │                                                                                             
-  1990.2 hr  ┼──────╯                                                                                             
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+</p>
